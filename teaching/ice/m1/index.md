@@ -6,12 +6,23 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### GLa: Software Quality
 
+#### Course materials
+
 - [Object-Oriented Design Principles and Bad Smells](./vv/0-oodp.pdf)
 - [Introduction to Software Validation & Verification](./vv/1-introduction.pdf)
 - [Introduction to Software Testing](./vv/2-test.pdf)
 - [Static Testing](./vv/3-static-test.pdf)
 - [Dynamic Testing](./vv/4-dynamic-test.pdf) (incl. OO unit testing)
 - [Integration Testing](./vv/4-integration.pdf)
+
+#### Further information
+
+- Refcard about JUnit and EasyMock [(free!)](http://refcardz.dzone.com/refcardz/junit-and-easymock)
+- [EasyMock](http://easymock.org/) website
+- [EclEmma](http://www.eclemma.org/) website
+- [PMD](http://pmd.sourceforge.net/) website
+- [Selenium](http://seleniumhq.org/) website
+- [DbUnit](http://www.dbunit.org/) website
 
 ## EC: Environnements Collaboratif
 
@@ -39,3 +50,7 @@ You can retreive the general introduction to the software engineering courses [h
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
     TBA
+
+# Further interesting materials
+
+- [Engineering blogs of tech companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies) by CybrHome
