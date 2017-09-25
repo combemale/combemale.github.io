@@ -17,7 +17,7 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### ECa: Méthodes de développement (P1)
 
-- [Course Introduction]()
+- [Course Introduction](./2017-18-ECa-intro-combemale.pdf)
 - [List of topics](./eca)
 
 ### ECb: Ingénierie des systèmes (P1/P2)
