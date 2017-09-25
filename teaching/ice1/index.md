@@ -16,11 +16,11 @@ You can retreive the general introduction to the software engineering courses [h
 ### ECa: Méthodes de développement (P1)
 
 - [Course Introduction]()
-- [List of topics and groups](./eca)
+- [List of topics](./eca)
 
 ### ECb: Ingénierie des systèmes (P1/P2)
 
-    __TBA__
+    TBA
 
 ### ECc: DevOps (P1)
 
@@ -32,10 +32,10 @@ You can retreive the general introduction to the software engineering courses [h
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
-    __TBA__
+    TBA
 
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
-    __TBA__
+    TBA
 
 
