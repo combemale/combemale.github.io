@@ -19,9 +19,14 @@
 > [DieHard: probabilistic memory safety for unsafe languages](https://people.cs.umass.edu/~emery/pubs/fp014-berger.pdf), by Emery D. Berger and Benjamin G. Zorn. In Proceedings of the 27th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '06).
 -->
 
+### Language paradigm
+
+> [Traits: Composable Units of Behavior](http://scg.unibe.ch/archive/papers/Scha02bTraits.pdf), by Nathanael Schärli, Stéphane Ducasse, Oscar Nierstrasz
+and Andrew Black. In European Conference on Object-Oriented Programming (ECOOP 2003).
+
 ### Aspect-Oriented Software Development
 
-> 
+> [Aspect-oriented programming](), by Kiczales G. et al. European Conference on Object-Oriented Programming (ECOOP 1997).
 
 ## Software analysis and testing
 
@@ -37,9 +42,12 @@
 
 > [Automatic patch generation by learning correct code](https://people.csail.mit.edu/fanl/papers/prophet-popl16.pdf), by Fan Long and Martin Rinard. In Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '16). ACM, New York, NY, USA, 298-312.
 
+<!--
 ##### Additional references:
 
 > [An Analysis of Patch Plausibility and Correctness for Generate-And-Validate Patch Generation Systems](http://dspace.mit.edu/bitstream/handle/1721.1/94337/MIT-CSAIL-TR-2015-003.pdf), by Zichao Qi, Fan Long, Sara Achour, and Martin Rinard. In Proceedings of the 2015 International Symposium on Software Testing and Analysis (ISSTA 2015). ACM, New York, NY, USA, 24-36.
+
+-->
 
 ## Software Architecture
 

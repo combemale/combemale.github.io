@@ -18,7 +18,7 @@ You can retreive the general introduction to the software engineering courses [h
 
 #### Further information
 
-- Refcard about JUnit and EasyMock [(free!)](http://refcardz.dzone.com/refcardz/junit-and-easymock)
+- [Refcard](http://refcardz.dzone.com/refcardz/junit-and-easymock) about JUnit and EasyMock
 - Tool websites: [EasyMock](http://easymock.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
 
 <!--
@@ -39,9 +39,10 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### ECc: DevOps (P1)
 
-- [Course Introduction: agile development, and continuous build and deployment]()
+- [Course Introduction]()
 - [Version Control System]() (incl. Git / Github / Gitlab)
 - [Build Management]() (incl. Maven)
+- [Tools for agile development]()
 - [Continuous Integration]() (incl. Jenkins)
 - [Containers]() (incl. Docker)
 
