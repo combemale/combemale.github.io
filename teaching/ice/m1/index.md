@@ -6,10 +6,10 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### GLa: Validation & Vérification
 
-- [Course Introduction]()
-- [Introduction to Software Testing]()
-- [Static Testing]()
-- [Dynamic Testing]()
+- [Course Introduction](./vv/1-introduction.pdf)
+- [Introduction to Software Testing](./vv/2-test.pdf)
+- [Static Testing](./vv/3-static-test.pdf)
+- [Dynamic Testing](./vv/4-dynamic-test.pdf)
 
 - [Object-Oriented Design Principles]()
 
