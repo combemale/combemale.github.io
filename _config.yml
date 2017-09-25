@@ -1,1 +1,37 @@
 theme: jekyll-theme-minimal
+
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: ""
+title: Benoit Combemale
+email: benoit@combemale.fr
+author: Benoit Combemale
+description: Website of Benoit Combemale
+copyright: 'N/A'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/bcombemale
+  - title: github
+    url: https://github.com/combemale
+  - title: comment
+    url: mailto:benoit@combemale.fr
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
