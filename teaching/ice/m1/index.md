@@ -39,5 +39,3 @@ You can retreive the general introduction to the software engineering courses [h
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
     TBA
-
-
