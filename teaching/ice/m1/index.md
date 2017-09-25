@@ -13,7 +13,7 @@ You can retreive the general introduction to the software engineering courses [h
 - [Introduction to Software Testing](./vv/2-test.pdf)
 - [Static Testing](./vv/3-static-test.pdf)
 - [Dynamic Testing](./vv/4-dynamic-test.pdf) (incl. OO unit testing)
-- [Integration Testing](./vv/4-integration.pdf)
+- [Integration Testing](./vv/5-integration.pdf)
 
 #### Further information
 
