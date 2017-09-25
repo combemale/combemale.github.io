@@ -6,7 +6,7 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### GLa: Validation & Vérification
 
-- [Introduction of the course]()
+- [Course Introduction]()
 - [Introduction to Software Testing]()
 - [Static Testing]()
 - [Dynamic Testing]()
@@ -15,18 +15,27 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### ECa: Méthodes de développement (P1)
 
-- [Introduction of the course]()
+- [Course Introduction]()
 - [List of topics and groups](./eca)
 
 ### ECb: Ingénierie des systèmes (P1/P2)
 
-//TBA//
+    __TBA__
 
 ### ECc: DevOps (P1)
 
+- [Course Introduction]()
+- [Version Control System]() (incl. Git / Github / Gitlab)
+- [Build Management]() (incl. Maven)
+- [Continuous Integration]() (incl. Jenkins)
+- [Containers]() (incl. Docker)
+
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
+
+    __TBA__
 
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
+    __TBA__
 
 
