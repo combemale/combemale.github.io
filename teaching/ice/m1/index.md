@@ -1,6 +1,6 @@
 # Master 1 Informatique Collaborative en Entreprise (ICE)
 
-You can retreive the general introduction to the software engineering courses [here]().
+You can retreive the general introduction to the software engineering courses [here](./2017-18-personalintro-combemale.pdf).
 
 ## GL: Génie Logiciel
 
