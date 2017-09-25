@@ -13,7 +13,7 @@
 
 > [A survey of techniques for approximate computing](https://www.researchgate.net/profile/Sparsh_Mittal/publication/290194892_A_Survey_Of_Techniques_for_Approximate_Computing/links/569570a208ae425c68983c70/A-Survey-Of-Techniques-for-Approximate-Computing.pdf), by Mittal, S. ACM Computing Surveys (CSUR), 48(4), 62 (2016). 
 
-<!-->
+<!--
 ##### Additional references:
 
 > [DieHard: probabilistic memory safety for unsafe languages](https://people.cs.umass.edu/~emery/pubs/fp014-berger.pdf), by Emery D. Berger and Benjamin G. Zorn. In Proceedings of the 27th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '06).
