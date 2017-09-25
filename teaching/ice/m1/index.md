@@ -19,11 +19,12 @@ You can retreive the general introduction to the software engineering courses [h
 #### Further information
 
 - Refcard about JUnit and EasyMock [(free!)](http://refcardz.dzone.com/refcardz/junit-and-easymock)
-- [EasyMock](http://easymock.org/) website
-- [EclEmma](http://www.eclemma.org/) website
-- [PMD](http://pmd.sourceforge.net/) website
+- Tool websites: [EasyMock](http://easymock.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
+
+<!--
 - [Selenium](http://seleniumhq.org/) website
 - [DbUnit](http://www.dbunit.org/) website
+-->
 
 ## EC: Environnements Collaboratif
 
