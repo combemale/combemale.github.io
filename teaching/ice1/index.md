@@ -11,6 +11,8 @@ You can retreive the general introduction to the software engineering courses [h
 - [Static Testing]()
 - [Dynamic Testing]()
 
+- [Object-Oriented Design Principles]()
+
 ## EC: Environnements Collaboratif
 
 ### ECa: Méthodes de développement (P1)
@@ -24,7 +26,7 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### ECc: DevOps (P1)
 
-- [Course Introduction]()
+- [Course Introduction: agile development, and continuous build and deployment]()
 - [Version Control System]() (incl. Git / Github / Gitlab)
 - [Build Management]() (incl. Maven)
 - [Continuous Integration]() (incl. Jenkins)

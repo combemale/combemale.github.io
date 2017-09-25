@@ -2,5 +2,5 @@ Teaching page
 
 ## Master ICE
 
-- [M1 ICE](./ice1/)
-- [M2 ICE](./ice2/)
+- [Master 1 ICE](./ice1/)
+- [Master 2 ICE](./ice2/)
