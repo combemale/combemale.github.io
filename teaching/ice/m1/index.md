@@ -14,7 +14,7 @@ You can retreive the general introduction to the software engineering courses [h
 - [Static Testing](./vv/3-static-test.pdf)
 - [Dynamic Testing](./vv/4-dynamic-test.pdf) (incl. OO unit testing)
 - [Integration Testing](./vv/5-integration.pdf)
-- [Labs: Object-Oriented Software Testing](./vv/labs-ootesting/)
+- [Lab: Object-Oriented Software Testing](./vv/lab-ootesting/)
 
 #### Further information
 
