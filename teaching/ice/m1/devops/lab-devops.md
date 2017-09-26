@@ -168,7 +168,7 @@ Eclipse permet de lancer cette commande maven sans passer par la ligne de comman
 
 ### Valider la qualité du code avec le plugin checkstyle
 
-Ajoutez à la section <plugins> dans <reporting> le plugin checkstyle :
+Ajoutez à la section \<plugins> dans \<reporting> le plugin checkstyle :
 
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
