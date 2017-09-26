@@ -19,12 +19,10 @@
 > [DieHard: probabilistic memory safety for unsafe languages](https://people.cs.umass.edu/~emery/pubs/fp014-berger.pdf), by Emery D. Berger and Benjamin G. Zorn. In Proceedings of the 27th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '06).
 -->
 
-### Language paradigm
+### Software modularity
 
 > [Traits: Composable Units of Behavior](http://scg.unibe.ch/archive/papers/Scha02bTraits.pdf), by Nathanael Schärli, Stéphane Ducasse, Oscar Nierstrasz
 and Andrew Black. In European Conference on Object-Oriented Programming (ECOOP 2003).
-
-### Aspect-Oriented Software Development
 
 > [Aspect-oriented programming](), by Kiczales G. et al. European Conference on Object-Oriented Programming (ECOOP 1997).
 
