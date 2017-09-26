@@ -2,61 +2,6 @@
 
     Master 1 ICE, Course ECa (P1)
 
-## Programming Language
-
-### Typing
-
-> [Against a Universal Definition of 'Type'](http://tomasp.net/academic/papers/against-types/index.html), by Tomas Petricek. In Proceedings of Onward! Essays 2015.
-
-> [In Search of Types](http://www.cl.cam.ac.uk/~srk31/research/papers/kell14in-author-version.pdf), by Stephen Kell. In Proceedings of the 2014 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming & Software (Onward! 2014). 
-
-### Approximate computing
-
-> [A survey of techniques for approximate computing](https://www.researchgate.net/profile/Sparsh_Mittal/publication/290194892_A_Survey_Of_Techniques_for_Approximate_Computing/links/569570a208ae425c68983c70/A-Survey-Of-Techniques-for-Approximate-Computing.pdf), by Mittal, S. ACM Computing Surveys (CSUR), 48(4), 62 (2016). 
-
-<!--
-##### Additional references:
-
-> [DieHard: probabilistic memory safety for unsafe languages](https://people.cs.umass.edu/~emery/pubs/fp014-berger.pdf), by Emery D. Berger and Benjamin G. Zorn. In Proceedings of the 27th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '06).
--->
-
-### Software modularity
-
-> [Traits: Composable Units of Behavior](http://scg.unibe.ch/archive/papers/Scha02bTraits.pdf), by Nathanael Schärli, Stéphane Ducasse, Oscar Nierstrasz and Andrew Black. In European Conference on Object-Oriented Programming (ECOOP 2003).
-
-> [Aspect-oriented programming](), by Kiczales G. et al. European Conference on Object-Oriented Programming (ECOOP 1997).
-
-## Software analysis and testing
-
-### Mutation testing
-
-> 
-
-### Model-Based Testing
-
-> 
-
-### Software synthesis and hot patch
-
-> [Automatic patch generation by learning correct code](https://people.csail.mit.edu/fanl/papers/prophet-popl16.pdf), by Fan Long and Martin Rinard. In Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '16). ACM, New York, NY, USA, 298-312.
-
-<!--
-##### Additional references:
-
-> [An Analysis of Patch Plausibility and Correctness for Generate-And-Validate Patch Generation Systems](http://dspace.mit.edu/bitstream/handle/1721.1/94337/MIT-CSAIL-TR-2015-003.pdf), by Zichao Qi, Fan Long, Sara Achour, and Martin Rinard. In Proceedings of the 2015 International Symposium on Software Testing and Analysis (ISSTA 2015). ACM, New York, NY, USA, 24-36.
-
--->
-
-## Software Architecture
-
-### Component Based Software Engineering
-
-> 
-
-### Large-scale infrastructure
-
-> 
-
 ## Software engineering principles
 
 > [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf), by Fergus Henderson.
@@ -70,6 +15,39 @@
 > [Chaos Engineering](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2016/07/mso2016030035.pdf), by Ali Basiri, Niosha Behnam, Ruud de Rooij, Lorin Hochstein, Luke Kosewski, Justin Reynolds, Casey Rosenthal. In IEEE Software vol. 33 no. 3, p. 35-41, 2016.
 
 
-## Political and social impact of software
+## Software Preservation
 
 >  [Software Heritage: Why and How to Preserve Software Source Code](https://hal.archives-ouvertes.fr/hal-01590958/document), by Roberto Di Cosmo, Stefano Zacchiroli.
+
+## Typing
+
+> [Against a Universal Definition of 'Type'](http://tomasp.net/academic/papers/against-types/index.html), by Tomas Petricek. In Proceedings of Onward! Essays 2015.
+
+> [In Search of Types](http://www.cl.cam.ac.uk/~srk31/research/papers/kell14in-author-version.pdf), by Stephen Kell. In Proceedings of the 2014 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming & Software (Onward! 2014). 
+
+## Approximate computing
+
+> [A survey of techniques for approximate computing](https://www.researchgate.net/profile/Sparsh_Mittal/publication/290194892_A_Survey_Of_Techniques_for_Approximate_Computing/links/569570a208ae425c68983c70/A-Survey-Of-Techniques-for-Approximate-Computing.pdf), by Mittal, S. ACM Computing Surveys (CSUR), 48(4), 62 (2016). 
+
+<!--
+##### Additional references:
+
+> [DieHard: probabilistic memory safety for unsafe languages](https://people.cs.umass.edu/~emery/pubs/fp014-berger.pdf), by Emery D. Berger and Benjamin G. Zorn. In Proceedings of the 27th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '06).
+-->
+
+## Software modularity
+
+> [Traits: Composable Units of Behavior](http://scg.unibe.ch/archive/papers/Scha02bTraits.pdf), by Nathanael Schärli, Stéphane Ducasse, Oscar Nierstrasz and Andrew Black. In European Conference on Object-Oriented Programming (ECOOP 2003).
+
+> [Aspect-oriented programming](), by Kiczales G. et al. European Conference on Object-Oriented Programming (ECOOP 1997).
+
+## Software synthesis and hot patch
+
+> [Automatic patch generation by learning correct code](https://people.csail.mit.edu/fanl/papers/prophet-popl16.pdf), by Fan Long and Martin Rinard. In Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '16). ACM, New York, NY, USA, 298-312.
+
+<!--
+##### Additional references:
+
+> [An Analysis of Patch Plausibility and Correctness for Generate-And-Validate Patch Generation Systems](http://dspace.mit.edu/bitstream/handle/1721.1/94337/MIT-CSAIL-TR-2015-003.pdf), by Zichao Qi, Fan Long, Sara Achour, and Martin Rinard. In Proceedings of the 2015 International Symposium on Software Testing and Analysis (ISSTA 2015). ACM, New York, NY, USA, 24-36.
+
+-->
