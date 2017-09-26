@@ -212,3 +212,36 @@ Vous pourrez ensuite arrêter sonar avec
     
     sh /tmp/sonarqube-5.6.1/bin/linux-x86-64/sonar.sh stop
 
+### Intégration avec Jenkins
+
+Sur http://jenkins-ci.org/, prenez la version LTS Java Web Archive (.war) pour la mettre dans /tmp. Il faut déplacer l'endroit où la configuration Jenkins sera stockée :
+
+    export JENKINS_HOME=/tmp/.jenkins
+
+Démarrez jenkins : 
+
+    java -jar jenkins.war. 
+    
+Allez dans votre navigateur : http://localhost:8080/.
+
+Configurez Jenkins :
+- Commencez par cliquer sur « enable auto refresh »
+- Allez dans le menu « Jenkins → Manage Jenkins → Global Tool Configuration »
+Cliquez sur « Add JDK ». Saisissez un nom quelconque permettant d'identifier la JDK. Cochez « I agree... ». Ignorez le message d'erreur « requires Oracle account »
+- Cliquez sur « Add Maven ». Saisissez un nom quelconque permettant d'identifier cette version de Maven.
+- Cliquez sur « Save ». Le but de ces configurations est de pouvoir installer, si on le souhaite, plusieurs Maven ou plusieurs JDK (par exemple, certains projets peuvent nécessiter Java 6 et d'autres Java 8).
+- Installez le module git pour Jenkins : « Jenkins → Manage Plugins → Available → « GIT plugin » et « Maven integration plugin » → Download now and install after restart → Restart Jenkins ». Ces plugins peuvent être déjà installés.
+
+Mettez votre code sur github:
+- créez un nouveau repository via l'interface github
+- liez votre dépôt local au distant : 
+    
+    git remote add origin https://github.com/login/nomRepo.git
+
+- mettez votre code sur ce dépôt : git push origin master (en cas de non-fast-forward : git pull origin master)
+
+Par défaut, jenkins ne contient pas le plugin pour gérer des repository Git, Il vous faut installer le plugin “Git Plugin”. De plus, vous devez configurer Maven (voir Configure System).
+
+Ensuite créez un « job » en cliquant sur « create new job -> Maven Project ». Donnez un nom à votre projet. Définissez les sources en indiquant l'url du repository git que vous avez préalablement créer sur github (i.e. https://github.com/login/nomRepo.git) et enfin définissez les goals maven pour le build (« Add build step » → « Invoke top-level Maven... ») : pour commencer clean package. Si le pom n’est pas à la racine de votre projet, cliquez sur « Advanced... » → remplissez le champ POM. Lancer un build.
+
+Dans l'historique des builds, une icône bleu doit apparaître à la fin de la construction pour désigner la construction correcte de l'artefact (bleu car le développeur de Jenkins est Japonais et au Japon le bleu équivaut au vert chez nous, d'ailleurs un plugin Jenkins existe pour afficher des icônes vertes et non bleues...). Cliquez ensuite sur le lien sous « Module builds », les artefacts créés par jenkins en utilisant le POM du projet sont visibles dont un jar. Ouvrez ce dernier, vous verrez que le manifest est vide. Dans les étapes suivantes vous allez compléter le POM pour obtenir un vrai jar exécutable.
