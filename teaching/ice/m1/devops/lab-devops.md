@@ -233,6 +233,7 @@ Cliquez sur « Add JDK ». Saisissez un nom quelconque permettant d'identifier
 - Installez le module git pour Jenkins : « Jenkins → Manage Plugins → Available → « GIT plugin » et « Maven integration plugin » → Download now and install after restart → Restart Jenkins ». Ces plugins peuvent être déjà installés.
 
 Mettez votre code sur github:
+
 - créez un nouveau repository via l'interface github
 - liez votre dépôt local au distant : 
     
@@ -245,3 +246,51 @@ Par défaut, jenkins ne contient pas le plugin pour gérer des repository Git, I
 Ensuite créez un « job » en cliquant sur « create new job -> Maven Project ». Donnez un nom à votre projet. Définissez les sources en indiquant l'url du repository git que vous avez préalablement créer sur github (i.e. https://github.com/login/nomRepo.git) et enfin définissez les goals maven pour le build (« Add build step » → « Invoke top-level Maven... ») : pour commencer clean package. Si le pom n’est pas à la racine de votre projet, cliquez sur « Advanced... » → remplissez le champ POM. Lancer un build.
 
 Dans l'historique des builds, une icône bleu doit apparaître à la fin de la construction pour désigner la construction correcte de l'artefact (bleu car le développeur de Jenkins est Japonais et au Japon le bleu équivaut au vert chez nous, d'ailleurs un plugin Jenkins existe pour afficher des icônes vertes et non bleues...). Cliquez ensuite sur le lien sous « Module builds », les artefacts créés par jenkins en utilisant le POM du projet sont visibles dont un jar. Ouvrez ce dernier, vous verrez que le manifest est vide. Dans les étapes suivantes vous allez compléter le POM pour obtenir un vrai jar exécutable.
+
+### Packager des artefacts logiciels avec maven
+
+Comme expliqué précédemment, ces artefacts logiciels peuvent être produits soit en utilisant directement maven en ligne de commande, soit en utilisant Jenkins. Nous allons dans cette dernière partie étudier différents plugins maven permet de réaliser de nombreuses actions de liées à la construction d'artefacts logiciels. 
+
+#### Création d'un jar exécutable via maven
+
+Pour construire des artefacts vous allez ajouter un bloc \<build> dans le bloc \<project> de votre POM. Dans ce nouveau bloc vont être ajouté les plugins utilisés dans cette partie comme le suivant :
+
+    <build>
+    <plugins>
+        <plugin> 
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId> 
+            <version>3.5.1</version> 
+            <configuration> 
+                <source>1.8</source> 
+                <target>1.8</target> 
+            </configuration>
+        </plugin>
+    </plugins>
+    </build>
+
+Ce plugin permet de compiler du code Java. Vous pouvez spécifier la version de Java à utiliser. 
+
+Cf. : http://maven.apache.org/plugins/maven-compiler-plugin/
+
+Générez un jar exécutable grâce au plugin maven-jar-plugin qui vous permettra de définir un manifest :
+http://maven.apache.org/plugins/maven-jar-plugin/ (regardez les exemples « creating an executable JAR file »).
+
+Lancez mvn clean install et exécutez le nouveau jar généré se trouvant dans le dossier target. Commitez et pushez vos changements, relancez le build Jenkins, allez dans le « last build » et cliquez sur le « Module Builds » listé : la liste des éléments produits doit être visible et téléchargeable.
+
+#### Exécution de test via maven
+Utilisez le plugin maven-surefire-plugin pour exécuter les tests du projet lors de la commande mvn clean install, cf.: http://maven.apache.org/surefire/maven-surefire-plugin/
+Commitez le POM sur github et relancez un build sur Jenkins afin d'observer les évolutions apportées.
+
+#### Création d'archives des sources et des exécutables
+Le plugin maven-assembly-plugin permet de créer des archives. Ce plugin est notamment très utile pour créer des archives des sources ou des fichiers exécutables, cf : http://maven.apache.org/plugins/maven-assembly-plugin/
+
+Étudiez et adaptez l'utilisation de ce plugin dans le projet suivant :
+https://github.com/arnobl/latexdraw/blob/master/latexdraw-core/net.sf.latexdraw.bundle/pom.xml
+pour l'utiliser dans votre projet afin de créer un zip des sources et un autre contenant le jar exécutable.
+
+Commitez les modifications sur github et relancez un build sur Jenkins afin d'observer les évolutions apportées. 
+
+#### Daily/Nightly build avec Jenkins
+
+Configurer vos builds Jenkins pour qu'ils se construisent automatiquement à 1h du matin tous les jours.
