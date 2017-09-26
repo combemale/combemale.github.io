@@ -6,7 +6,6 @@
 
 ### Typing
 
-
 > [Against a Universal Definition of 'Type'](http://tomasp.net/academic/papers/against-types/index.html), by Tomas Petricek. In Proceedings of Onward! Essays 2015.
 
 > [In Search of Types](http://www.cl.cam.ac.uk/~srk31/research/papers/kell14in-author-version.pdf), by Stephen Kell. In Proceedings of the 2014 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming & Software (Onward! 2014). 
@@ -23,8 +22,7 @@
 
 ### Software modularity
 
-> [Traits: Composable Units of Behavior](http://scg.unibe.ch/archive/papers/Scha02bTraits.pdf), by Nathanael Schärli, Stéphane Ducasse, Oscar Nierstrasz
-and Andrew Black. In European Conference on Object-Oriented Programming (ECOOP 2003).
+> [Traits: Composable Units of Behavior](http://scg.unibe.ch/archive/papers/Scha02bTraits.pdf), by Nathanael Schärli, Stéphane Ducasse, Oscar Nierstrasz and Andrew Black. In European Conference on Object-Oriented Programming (ECOOP 2003).
 
 > [Aspect-oriented programming](), by Kiczales G. et al. European Conference on Object-Oriented Programming (ECOOP 1997).
 
@@ -68,6 +66,8 @@ and Andrew Black. In European Conference on Object-Oriented Programming (ECOOP 2
 > [Development and Deployment at Facebook](http://www.frachtenberg.org/eitan/pubs/papers/feitelson13:devops.pdf), by Dror Feitelson, Eitan Frachtenberg, and Kent Beck. In IEEE Internet Computing 17, 4 (July 2013).
 
 > [The antifragile organization](http://queue.acm.org/detail.cfm?id=2499552), by Ariel Tseitlin. In Commun. ACM 56, 8 (August 2013).
+
+> [Chaos Engineering](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2016/07/mso2016030035.pdf), by Ali Basiri, Niosha Behnam, Ruud de Rooij, Lorin Hochstein, Luke Kosewski, Justin Reynolds, Casey Rosenthal. In IEEE Software vol. 33 no. 3, p. 35-41, 2016.
 
 
 ## Political and social impact of software
