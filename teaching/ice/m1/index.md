@@ -40,11 +40,15 @@ You can retreive the general introduction to the software engineering courses [h
 ### ECc: DevOps (P1)
 
 - [Course Introduction]()
-- [Version Control System]() (incl. Git / Github / Gitlab)
-- [Build Management]() (incl. Maven)
+- [Build automation]() (incl. Maven)
 - [Tools for agile development]()
+- [Introduction to Release Engineering]()
 - [Continuous Integration]() (incl. Jenkins)
 - [Containers]() (incl. Docker)
+
+#### Further information
+
+- [Version Control System]()
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
