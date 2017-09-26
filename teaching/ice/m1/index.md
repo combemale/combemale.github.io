@@ -45,7 +45,7 @@ You can retreive the general introduction to the software engineering courses [h
 - [Introduction to Release Engineering]()
 - [Continuous Integration]() (incl. Jenkins)
 - [Containers]() (incl. Docker)
-- [Lab: Software Development Industrialization]()
+- [Lab: Software Development Industrialization](./devops/lab-devops/)
 
 #### Further information
 
