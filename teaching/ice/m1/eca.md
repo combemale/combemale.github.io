@@ -1,4 +1,6 @@
-# List of topics for the Master 1 ICE (ECa, P1)
+# List of topics
+
+    Master 1 ICE, Course ECa (P1)
 
 ## Programming Language
 
