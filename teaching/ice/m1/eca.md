@@ -25,6 +25,8 @@
 
 > [In Search of Types](http://www.cl.cam.ac.uk/~srk31/research/papers/kell14in-author-version.pdf), by Stephen Kell. In Proceedings of the 2014 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming & Software (Onward! 2014). 
 
+> [To Type or Not to Type: Quantifying Detectable Bugs in JavaScript](http://ttendency.cs.ucl.ac.uk/projects/type_study/documents/type_study.pdf) by Z. Gao, C. Bird and E. T. Barr. In IEEE/ACM 39th International Conference on Software Engineering (ICSE), Buenos Aires, 2017, pp. 758-769.
+
 ## Approximate computing
 
 > [A survey of techniques for approximate computing](https://www.researchgate.net/profile/Sparsh_Mittal/publication/290194892_A_Survey_Of_Techniques_for_Approximate_Computing/links/569570a208ae425c68983c70/A-Survey-Of-Techniques-for-Approximate-Computing.pdf), by Mittal, S. ACM Computing Surveys (CSUR), 48(4), 62 (2016). 
@@ -41,7 +43,7 @@
 
 > [Aspect-oriented programming](), by Kiczales G. et al. European Conference on Object-Oriented Programming (ECOOP 1997).
 
-## Software synthesis and hot patch
+## Software synthesis
 
 > [Automatic patch generation by learning correct code](https://people.csail.mit.edu/fanl/papers/prophet-popl16.pdf), by Fan Long and Martin Rinard. In Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '16). ACM, New York, NY, USA, 298-312.
 
