@@ -112,7 +112,8 @@ Votre projet est configuré.
 
 ## Gestion des dépendances
 
-Intégrer à votre code source le fichier [ici](https://raw.githubusercontent.com/barais/swingx/master/JXBusyLabelTest). 
+Intégrer à votre code source le fichier [ici](https://gist.github.com/combemale/d37efa02b1f3888aeb0034aac7732e3a).
+
 Vous verrez que le code ne compile pas car il manque une dépendances. Intégrez maintenant la dépendance à swingx. 
 
     <!-- https://mvnrepository.com/artifact/org.swinglabs/swingx -->

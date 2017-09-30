@@ -14,12 +14,14 @@ You can retreive the general introduction to the software engineering courses [h
 - [Static Testing](./vv/3-static-test.pdf)
 - [Dynamic Testing](./vv/4-dynamic-test.pdf) (incl. OO unit testing)
 - [Integration Testing](./vv/5-integration.pdf)
+- [Test Qualification](./vv/6-test-qualification.pdf)
+- [Mutation Analysis](./vv/7-mutation.pdf)
 - [Lab: Object-Oriented Software Testing](./vv/lab-ootesting/)
 
 #### Further information
 
 - [Refcard](http://refcardz.dzone.com/refcardz/junit-and-easymock) about JUnit and EasyMock
-- Tool websites: [EasyMock](http://easymock.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
+- Tool websites: [EasyMock](http://easymock.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
 
 <!--
 - [Selenium](http://seleniumhq.org/) website

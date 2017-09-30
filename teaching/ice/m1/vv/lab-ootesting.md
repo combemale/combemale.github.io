@@ -2,8 +2,9 @@
 
     Master 1 ICE
     GLa - V&V - Labs
+    Materials on https://github.com/selabs-ut2j/testing
 
-Importez le projet disponible [ici]().
+Importez le projet disponible [ici](https://github.com/selabs-ut2j/testing.git).
 
 ## Test Unitaire pour Java avec JUnit
 
