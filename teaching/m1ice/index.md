@@ -12,7 +12,7 @@ You can retreive the general introduction to the software engineering courses [h
 - [Introduction to Software Validation & Verification](./vv/1-introduction.pdf)
 - [Introduction to Software Testing](./vv/2-test.pdf)
 - [Static Testing](./vv/3-static-test.pdf)
-- [Dynamic Testing](./vv/4-dynamic-test.pdf) (incl. OO unit testing)
+- [Dynamic Testing](./vv/4-dynamic-test.pdf)
 - [Integration Testing](./vv/5-integration.pdf)
 - [Test Qualification](./vv/6-test-qualification.pdf)
 - [Mutation Analysis](./vv/7-mutation.pdf)
@@ -43,10 +43,10 @@ You can retreive the general introduction to the software engineering courses [h
 ### ECc: DevOps (P1)
 
 - [Course Introduction]()
-- [Build automation]() (incl. Maven)
+- [Build automation]()
 - [Tools for agile development]()
-- [Continuous Integration]() (incl. Jenkins)
-- [Containers]() (incl. Docker)
+- [Continuous Integration]()
+- [Containers]()
 - [Lab: Software Development Industrialization](https://github.com/selabs-ut2j/devops)
 
 #### Further information
