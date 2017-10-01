@@ -28,7 +28,7 @@ You can retreive the general introduction to the software engineering courses [h
 - [DbUnit](http://www.dbunit.org/) website
 -->
 
-## EC: Environnements Collaboratif
+## EC: Environnements Collaboratifs
 
 ### ECa: Méthodes de développement (P1)<a id="eca"></a>
 
@@ -42,7 +42,7 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### ECc: DevOps (P1)
 
-- [Course Introduction](./devops/)
+- [Course Introduction]()
 - [Build automation]() (incl. Maven)
 - [Tools for agile development]()
 - [Continuous Integration]() (incl. Jenkins)
