@@ -21,7 +21,7 @@ You can retreive the general introduction to the software engineering courses [h
 #### Further information
 
 - [Refcard](http://refcardz.dzone.com/refcardz/junit-and-easymock) about JUnit and EasyMock
-- Tool websites: [JUnit](http://junit.org/), [EasyMock](http://easymock.org/), [Mockito](http://site.mockito.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
+- Tool websites: [JUnit](http://junit.org/), [Checkstyle](http://checkstyle.sourceforge.net/), [Cobertura](http://cobertura.github.io/cobertura/), [EasyMock](http://easymock.org/), [Mockito](http://site.mockito.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
 
 <!--
 - [Selenium](http://seleniumhq.org/) website
@@ -52,6 +52,7 @@ You can retreive the general introduction to the software engineering courses [h
 #### Further information
 
 - [Version Control System]()
+- Tool websites: [Git](https://git-scm.com), [Apache Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/)
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
