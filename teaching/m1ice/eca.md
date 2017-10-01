@@ -19,6 +19,8 @@
 
 >  [Software Heritage: Why and How to Preserve Software Source Code](https://hal.archives-ouvertes.fr/hal-01590958/document), by Roberto Di Cosmo, Stefano Zacchiroli.
 
+---
+
 ## Typing
 
 > [Against a Universal Definition of 'Type'](http://tomasp.net/academic/papers/against-types/index.html), by Tomas Petricek. In Proceedings of Onward! Essays 2015.
