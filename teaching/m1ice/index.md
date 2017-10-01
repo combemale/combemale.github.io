@@ -43,13 +43,14 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### ECc: DevOps (P1)
 
+#### Course materials
+
 - [Course Introduction]()
 - [Tools for (Java) Development Industrialization]()
 - [Lab: Software Development Industrialization](https://github.com/selabs-ut2j/devops)
 
 #### Further information
 
-- [Version Control System]()
 - Tool websites: [Git](https://git-scm.com), [Log4j](https://logging.apache.org/log4j/), [Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/)
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
