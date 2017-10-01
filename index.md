@@ -6,7 +6,7 @@
 
 - [Master 2 ICE](./teaching/m2ice/) : Projet
 - [Master 1 ICE](./teaching/m1ice/) : Génie Logiciel, Environnements collaboratifs, Ingénierie des modèles, Projet
-- [Licence 3 Info](./teaching/l3info/) : Conception et dévelopement orienté-object
+- [Licence 3 Info](#) : Conception et dévelopement orienté-object
 - [Licence 1](#) : Algorithimique et programmation 
 
 ## Other resources

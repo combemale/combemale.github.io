@@ -4,7 +4,7 @@ You can retreive the general introduction to the software engineering courses [h
 
 ## GL: Génie Logiciel
 
-### GLa: Software Quality
+### GLa: Validation & Verification
 
 #### Course materials
 
