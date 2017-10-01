@@ -21,7 +21,7 @@ You can retreive the general introduction to the software engineering courses [h
 #### Further information
 
 - [Refcard](http://refcardz.dzone.com/refcardz/junit-and-easymock) about JUnit and EasyMock
-- Tool websites: [EasyMock](http://easymock.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
+- Tool websites: [JUnit](http://junit.org/), [EasyMock](http://easymock.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
 
 <!--
 - [Selenium](http://seleniumhq.org/) website
