@@ -33,7 +33,8 @@ You can retreive the general introduction to the software engineering courses [h
 ### ECa: Méthodes de développement (P1)<a id="eca"></a>
 
 - [Course Introduction](./2017-18-eca-intro-combemale.pdf)
-- [List of topics](./eca)
+- [List of articles](./eca)
+- [Student Assignment](https://docs.google.com/spreadsheets/d/1sim_i8f1Zt-45fbZjCwZuIJxyjNYLlv_fz2mfBKytlg/edit?usp=sharing)
 
 ### ECb: Ingénierie des systèmes (P1/P2)
 
@@ -52,7 +53,7 @@ You can retreive the general introduction to the software engineering courses [h
 #### Further information
 
 - [Version Control System]()
-- Tool websites: [Git](https://git-scm.com), [Apache Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/)
+- Tool websites: [Git](https://git-scm.com), [Log4j](https://logging.apache.org/log4j/), [Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/)
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
