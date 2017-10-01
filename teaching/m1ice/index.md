@@ -44,10 +44,7 @@ You can retreive the general introduction to the software engineering courses [h
 ### ECc: DevOps (P1)
 
 - [Course Introduction]()
-- [Build automation]()
-- [Tools for agile development]()
-- [Continuous Integration]()
-- [Containers]()
+- [Tools for (Java) Development Industrialization]()
 - [Lab: Software Development Industrialization](https://github.com/selabs-ut2j/devops)
 
 #### Further information
