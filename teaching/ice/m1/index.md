@@ -37,7 +37,8 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### ECb: Ingénierie des systèmes (P1/P2)
 
-    TBA
+- [Introduction to Systems Engineering]()
+- [Case Study Introduction]()
 
 ### ECc: DevOps (P1)
 
@@ -46,7 +47,7 @@ You can retreive the general introduction to the software engineering courses [h
 - [Tools for agile development]()
 - [Continuous Integration]() (incl. Jenkins)
 - [Containers]() (incl. Docker)
-- [Lab: Software Development Industrialization](./devops/lab-devops/)
+- [Lab: Software Development Industrialization](https://github.com/selabs-ut2j/devops)
 
 #### Further information
 
