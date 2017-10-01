@@ -57,7 +57,12 @@ You can retreive the general introduction to the software engineering courses [h
 
 #### Course materials
 
-    TBA
+- [Course Introduction]()
+- [Model-Driven Engineering: from Modeling to Metamodeling]()
+- [Static analysis and program transformation]()
+- [Domain-Specific Languages]()
+- [Model execution, simulation, animation and debugging]()
+- [Hyper-Agility: A Model-Driven Software Agility from Design-Time to Run-Time]()
 
 #### Further information
 
