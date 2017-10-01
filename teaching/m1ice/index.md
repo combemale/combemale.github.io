@@ -46,7 +46,7 @@ You can retreive the general introduction to the software engineering courses [h
 #### Course materials
 
 - [Course Introduction]()
-- [Tools for (Java) Development Industrialization](), incl. documentation, logging, testing, code analysis, refactoring, build automation, versionning, and continuous integration.
+- [Tools for (Java) Development Industrialization]() (incl. documentation, logging, testing, code analysis, refactoring, build automation, versionning, and continuous integration)
 - [Lab: Software Development Industrialization](https://github.com/selabs-ut2j/devops)
 
 #### Further information
