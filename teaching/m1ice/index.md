@@ -38,8 +38,15 @@ You can retreive the general introduction to the software engineering courses [h
 
 ### ECb: Ingénierie des systèmes (P1/P2)
 
+#### Course materials
+
 - [Introduction to Systems Engineering]()
 - [Case Study Introduction]()
+
+#### Further information
+
+- [INCOSE](http://www.incose.org/), [AFIS](https://www.afis.fr), [OMG SysML](http://www.omgsysml.org/)
+- Tool websites: [Capella](https://www.polarsys.org/capella/)
 
 ### ECc: DevOps (P1)
 
@@ -58,11 +65,12 @@ You can retreive the general introduction to the software engineering courses [h
 #### Course materials
 
 - [Course Introduction]()
-- [Model-Driven Engineering: from Modeling to Metamodeling]()
 - [Static analysis and program transformation]()
 - [Domain-Specific Languages]()
 - [Model execution, simulation, animation and debugging]()
 - [Hyper-Agility: A Model-Driven Software Agility from Design-Time to Run-Time]()
+- [Lab: Static analysis]()
+- [Lab: Domain-Specific Languages]()
 
 #### Further information
 
