@@ -11,5 +11,5 @@
 
 ## Other resources
 
-- Retreive the labs on the [Github of SELabs](https://github.com/selabs-ut2j/)
+- Labs on the [Github of SELabs](https://github.com/selabs-ut2j/)
 - Discuss on the [Slack workspace of SELabs](https://se-labs.slack.com)
