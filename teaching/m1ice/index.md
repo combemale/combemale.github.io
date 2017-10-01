@@ -55,7 +55,17 @@ You can retreive the general introduction to the software engineering courses [h
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
+#### Course materials
+
     TBA
+
+#### Further information
+
+- [Companion website](http://mdebook.irisa.fr/) of the MDE book
+- [Refcard about EMF](http://refcardz.dzone.com/refcardz/essential-emf)
+- Tutorial [Define a metamodel with ECore Tools](https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial)
+- [OMG Specifications](http://www.omg.org/spec/)
+- Tool websites: [Eclipse Modeling](http://www.eclipse.org/modeling/), [Xtext](https://www.eclipse.org/Xtext/), [Sirius](https://www.eclipse.org/sirius/), [GEMOC Studio](http://www.eclipse.org/gemoc/)
 
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
