@@ -15,9 +15,11 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 - [Test Qualification](./vv/6-test-qualification.pdf)
 - [Mutation Analysis](./vv/7-mutation.pdf)
 - [Lab: Object-Oriented Software Testing](https://github.com/selabs-ut2j/testing)
-- Further information
-    - [Refcard](http://refcardz.dzone.com/refcardz/junit-and-easymock) about JUnit and EasyMock
-    - Tool websites: [JUnit](http://junit.org/), [Checkstyle](http://checkstyle.sourceforge.net/), [Cobertura](http://cobertura.github.io/cobertura/), [EasyMock](http://easymock.org/), [Mockito](http://site.mockito.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
+
+##### Further information
+
+- [Refcard](http://refcardz.dzone.com/refcardz/junit-and-easymock) about JUnit and EasyMock
+- Tool websites: [JUnit](http://junit.org/), [Checkstyle](http://checkstyle.sourceforge.net/), [Cobertura](http://cobertura.github.io/cobertura/), [EasyMock](http://easymock.org/), [Mockito](http://site.mockito.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
 
 <!--
 - [Selenium](http://seleniumhq.org/) website
@@ -36,17 +38,21 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 - [Introduction to Systems Engineering]()
 - [Case Study Introduction]()
-- Further information
-    - [INCOSE](http://www.incose.org/), [AFIS](https://www.afis.fr), [OMG SysML](http://www.omgsysml.org/)
-    - Tool websites: [Capella](https://www.polarsys.org/capella/)
+
+##### Further information
+
+- [INCOSE](http://www.incose.org/), [AFIS](https://www.afis.fr), [OMG SysML](http://www.omgsysml.org/)
+- Tool websites: [Capella](https://www.polarsys.org/capella/)
 
 ### ECc: DevOps (P1)
 
 - [Course Introduction]()
 - [Tools for (Java) Development Industrialization]() (incl. documentation, logging, testing, code analysis, refactoring, build automation, versionning, and continuous integration)
 - [Lab: Software Development Industrialization](https://github.com/selabs-ut2j/devops)
-- Further information
-    - Tool websites: [Git](https://git-scm.com), [Log4j](https://logging.apache.org/log4j/), [Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/)
+
+##### Further information
+
+- Tool websites: [Git](https://git-scm.com), [Log4j](https://logging.apache.org/log4j/), [Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/)
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
@@ -57,12 +63,14 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 - [Hyper-Agility: A Model-Driven Software Agility from Design-Time to Run-Time]()
 - [Lab: Static analysis]()
 - [Lab: Domain-Specific Languages]()
-- Further information
-    - [Companion website](http://mdebook.irisa.fr/) of the MDE book
-    - [Refcard about EMF](http://refcardz.dzone.com/refcardz/essential-emf)
-    - Tutorial [Define a metamodel with ECore Tools](https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial)
-    - [OMG Specifications](http://www.omg.org/spec/)
-    - Tool websites: [Eclipse Modeling](http://www.eclipse.org/modeling/), [Xtext](https://www.eclipse.org/Xtext/), [Sirius](https://www.eclipse.org/sirius/), [GEMOC Studio](http://www.eclipse.org/gemoc/)
+
+##### Further information
+
+- [Companion website](http://mdebook.irisa.fr/) of the MDE book
+- [Refcard about EMF](http://refcardz.dzone.com/refcardz/essential-emf)
+- Tutorial [Define a metamodel with ECore Tools](https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial)
+- [OMG Specifications](http://www.omg.org/spec/)
+- Tool websites: [Eclipse Modeling](http://www.eclipse.org/modeling/), [Xtext](https://www.eclipse.org/Xtext/), [Sirius](https://www.eclipse.org/sirius/), [GEMOC Studio](http://www.eclipse.org/gemoc/)
 
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
