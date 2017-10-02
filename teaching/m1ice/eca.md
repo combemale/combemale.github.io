@@ -21,6 +21,10 @@
 
 ---
 
+## Programming Language
+
+> [A Large-Scale Study of Programming Languages and Code Quality in GitHub](https://cacm.acm.org/magazines/2017/10/221326-a-large-scale-study-of-programming-languages-and-code-quality-in-github/fulltext), by Baishakhi Ray, Daryl Posnett, Premkumar Devanbu, Vladimir Filkov. In Communications of the ACM, Vol. 60 No. 10, Pages 91-100, Oct. 2017.
+
 ## Typing
 
 > [Against a Universal Definition of 'Type'](http://tomasp.net/academic/papers/against-types/index.html), by Tomas Petricek. In Proceedings of Onward! Essays 2015.
