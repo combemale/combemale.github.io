@@ -48,7 +48,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 - [Course Introduction](./devops/2017-18-DevOps-intro.pdf)
 - [Tools for (Java) Development Industrialization](./devops/tools4agiledev.pdf) (incl. documentation, logging, testing, code analysis, refactoring, build automation, versionning, and continuous integration)
-- [Containers](./)
+- [Container Technologies](./)
 - [Lab: Software Development Industrialization](https://github.com/selabs-ut2j/devops)
 
 ##### Further information
@@ -62,8 +62,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 - [Domain-Specific Languages]()
 - [Model execution, simulation, animation and debugging]()
 - [Hyper-Agility: A Model-Driven Software Agility from Design-Time to Run-Time]()
-- [Lab: Static analysis]()
-- [Lab: Domain-Specific Languages]()
+- [Lab: Static analysis and Domain-Specific Languages]()
 
 ##### Further information
 
