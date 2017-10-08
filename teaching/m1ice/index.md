@@ -53,7 +53,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 ##### Further information
 
-- Tool websites: [Git](https://git-scm.com), [Log4j](https://logging.apache.org/log4j/), [Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/)
+- Tool websites: [Git](https://git-scm.com), [Log4j](https://logging.apache.org/log4j/), [Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/), [Docker](https://www.docker.com/)
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
