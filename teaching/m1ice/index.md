@@ -46,8 +46,9 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 ### ECc: DevOps (P1)
 
-- [Course Introduction](./2017-18-DevOps-intro.pdf)
-- [Tools for (Java) Development Industrialization](./tools4agiledev.pdf) (incl. documentation, logging, testing, code analysis, refactoring, build automation, versionning, and continuous integration)
+- [Course Introduction](./devops/2017-18-DevOps-intro.pdf)
+- [Tools for (Java) Development Industrialization](./devops/tools4agiledev.pdf) (incl. documentation, logging, testing, code analysis, refactoring, build automation, versionning, and continuous integration)
+- [Containers](./)
 - [Lab: Software Development Industrialization](https://github.com/selabs-ut2j/devops)
 
 ##### Further information
