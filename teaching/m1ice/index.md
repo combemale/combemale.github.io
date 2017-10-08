@@ -19,7 +19,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 ##### Further information
 
 - [Refcard](http://refcardz.dzone.com/refcardz/junit-and-easymock) about JUnit and EasyMock
-- Tool websites: [JUnit](http://junit.org/), [Checkstyle](http://checkstyle.sourceforge.net/), [Cobertura](http://cobertura.github.io/cobertura/), [EasyMock](http://easymock.org/), [Mockito](http://site.mockito.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
+- Tools: [JUnit](http://junit.org/), [Checkstyle](http://checkstyle.sourceforge.net/), [Cobertura](http://cobertura.github.io/cobertura/), [EasyMock](http://easymock.org/), [Mockito](http://site.mockito.org/), [PIT](http://pitest.org/), [EclEmma](http://www.eclemma.org/), [PMD](http://pmd.sourceforge.net/)
 
 <!--
 - [Selenium](http://seleniumhq.org/) website
@@ -42,7 +42,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 ##### Further information
 
 - [INCOSE](http://www.incose.org/), [AFIS](https://www.afis.fr), [OMG SysML](http://www.omgsysml.org/)
-- Tool websites: [Capella](https://www.polarsys.org/capella/), [Papyrus SysML](https://www.eclipse.org/papyrus/components/sysml/0.10.0/)
+- Tools: [Capella](https://www.polarsys.org/capella/), [Papyrus SysML](https://www.eclipse.org/papyrus/components/sysml/0.10.0/)
 
 ### ECc: DevOps (P1)
 
@@ -53,7 +53,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 ##### Further information
 
-- Tool websites: [Git](https://git-scm.com), [Log4j](https://logging.apache.org/log4j/), [Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/), [Docker](https://www.docker.com/)
+- Tools: [Git](https://git-scm.com), [Log4j](https://logging.apache.org/log4j/), [Maven](https://maven.apache.org/), [Sonar](https://www.sonarqube.org/), [Jenkins](https://jenkins.io/), [Docker](https://www.docker.com/)
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
@@ -71,7 +71,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 - [Refcard about EMF](http://refcardz.dzone.com/refcardz/essential-emf)
 - Tutorial [Define a metamodel with ECore Tools](https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial)
 - [OMG Specifications](http://www.omg.org/spec/)
-- Tool websites: [Eclipse Modeling](http://www.eclipse.org/modeling/), [Xtext](https://www.eclipse.org/Xtext/), [Sirius](https://www.eclipse.org/sirius/), [GEMOC Studio](http://www.eclipse.org/gemoc/), [Spoon](http://spoon.gforge.inria.fr)
+- Tools: [Eclipse Modeling](http://www.eclipse.org/modeling/), [Xtext](https://www.eclipse.org/Xtext/), [Sirius](https://www.eclipse.org/sirius/), [GEMOC Studio](http://www.eclipse.org/gemoc/), [Spoon](http://spoon.gforge.inria.fr)
 
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
