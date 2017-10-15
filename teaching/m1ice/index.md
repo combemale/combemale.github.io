@@ -43,6 +43,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 - [INCOSE](http://www.incose.org/), [AFIS](https://www.afis.fr), [OMG SysML](http://www.omgsysml.org/)
 - Tools: [Capella](https://www.polarsys.org/capella/), [Papyrus SysML](https://www.eclipse.org/papyrus/components/sysml/0.10.0/)
+- [Arcadia](http://www.polarsys.org/capella/arcadia.html) Method
 
 ### ECc: DevOps (P1)
 
