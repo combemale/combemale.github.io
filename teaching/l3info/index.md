@@ -2,7 +2,7 @@
 
 You can retreive the general introduction [here](./2017-18-M2ICE-intro-combemale.pdf).
 
-## Object-Oriented Programming and Modeling (P2)
+## Object-Oriented Programming & Modeling (P2)
 
 - [Design Pattern](./#)
 - [Object-oriented Principles](./#)
