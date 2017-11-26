@@ -4,10 +4,9 @@
 
 ## Materials
 
-- [Master 2 ICE](./teaching/m2ice/) : Projet
-- [Master 1 ICE](./teaching/m1ice/) : Génie Logiciel, Environnements collaboratifs, Ingénierie des modèles, Projet
-- [Licence 3 Info](#) : Conception et dévelopement orienté-object
-- [Licence 1](#) : Algorithimique et programmation 
+- [Master 2 ICE](./teaching/m2ice/) : Development project
+- [Master 1 ICE](./teaching/m1ice/) : Software engineering, collaborative environments, model driven engineering and Development project
+- [Licence 3 Info](./l3info/) : Object-oriented programming and modeling
 
 ## Other resources
 
