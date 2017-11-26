@@ -4,7 +4,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 ## GL: Génie Logiciel
 
-### GLa: Validation & Verification
+### GLa: Validation & Verification (P1)
 
 - [Object-Oriented Design Principles and Bad Smells](./vv/0-oodp.pdf)
 - [Introduction to Software Validation & Verification](./vv/1-introduction.pdf)
