@@ -1,10 +1,8 @@
 # Licence 3 Informatique (UT2J/DMI)
 
-You can retreive the general introduction [here](./2017-18-M2ICE-intro-combemale.pdf).
-
 ## Object-Oriented Programming & Modeling (P2)
 
-- [Design Pattern](./#)
+- [Design Pattern](./pattern-design.pdf)
 - [Object-oriented Principles](./#)
 
 ##### Further information
