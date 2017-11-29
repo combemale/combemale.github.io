@@ -3,7 +3,7 @@
 ## Object-Oriented Programming & Modeling (P2)
 
 - [Design Pattern](./pattern-design.pdf)
-- [Object-oriented Principles](./#)
+- [Object-oriented Principles](./oop.pdf)
 
 ##### Further information
 
