@@ -58,13 +58,12 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 ## IDM: Ingénierie Dirigée par les Modèles (P2/P3)
 
-- [Course Introduction]()
-- [Static analysis and program transformation]()
-- [Domain-Specific Languages]()
+- [Course Introduction](./mde/2017-18-IDM-intro.pdf)
+- [Domain-Specific Languages](./mde/1-DSLAndXtext.pdf)
+- [Model Management](./mde/2-ModelManagement.pdf)
 - [Model execution, simulation, animation and debugging]()
 - [Hyper-Agility: A Model-Driven Software Agility from Design-Time to Run-Time]()
-- [Lab: Static analysis]()
-- [Lab: Domain-Specific Languages]()
+- [Lab: Domain-Specific Languages](#)
 
 ##### Further information
 
