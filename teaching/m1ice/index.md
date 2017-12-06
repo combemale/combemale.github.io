@@ -44,6 +44,9 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 - [INCOSE](http://www.incose.org/), [AFIS](https://www.afis.fr), [OMG SysML](http://www.omgsysml.org/)
 - Tools: [Capella](https://www.polarsys.org/capella/), [Papyrus SysML](https://www.eclipse.org/papyrus/components/sysml/0.10.0/)
 - [Arcadia](http://www.polarsys.org/capella/arcadia.html) Method
+- [Lien pour l'install Papyrus 3](https://www.eclipse.org/papyrus/download.html)
+- Lien pour SysML 1.4 : https://hudson.eclipse.org/papyrus/job/papyrus-sysml-oxygen/lastSuccessfulBuild/artifact/releng/org.eclipse.papyrus.sysml14.p2/target/repository/
+- Lien pour PapyrusCompare : https://hudson.eclipse.org/papyrus/job/Papyrus-Compare-Oxygen-Integration/lastSuccessfulBuild/artifact/repository/ (si besoin)
 
 ### ECc: DevOps (P1)
 
