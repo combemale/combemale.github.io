@@ -37,7 +37,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 ### ECb: Ingénierie des systèmes (P1/P2)
 
 - [Introduction to Systems Engineering](./sysml-intro.pdf)
-- [Case Study Introduction]()
+- [Case Study Introduction](https://docs.google.com/document/d/1BJ4pcl99G0cuY1Ef5FeXuutWpGZClEcakvJarUJYUAU/edit?usp=sharing)
 
 ##### Further information
 
