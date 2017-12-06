@@ -38,6 +38,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 - [Introduction to Systems Engineering](./sysml-intro.pdf)
 - [Case Study Introduction](https://docs.google.com/document/d/1BJ4pcl99G0cuY1Ef5FeXuutWpGZClEcakvJarUJYUAU/edit?usp=sharing)
+- [Student groups](https://docs.google.com/spreadsheets/d/1f0tDuwDX-z94ZiSsba-7bu-7odiKbEkRuDWyl2Ov1W8/edit?usp=sharing)
 
 ##### Further information
 
