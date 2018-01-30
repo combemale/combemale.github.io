@@ -78,7 +78,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
-- [Course Introduction](#)
+- [Course Introduction](./2017-18-M1ICE-pdc-description.pdf)
 - [Student Assignment](https://docs.google.com/spreadsheets/d/1JFB8cLmj_ttTZ53d3Psb9ZIxkVqlCnAVzftA_X7Jj5c/edit?usp=sharing)
 
 # Further reading
