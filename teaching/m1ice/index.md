@@ -65,8 +65,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 - [Course Introduction](./mde/2017-18-IDM-intro.pdf)
 - [Domain-Specific Languages](./mde/1-DSLAndXtext.pdf)
 - [Model Management](./mde/2-ModelManagement.pdf)
-- [Model execution, simulation, animation and debugging]()
-- [Hyper-Agility: A Model-Driven Software Agility from Design-Time to Run-Time]()
+- [Model execution, simulation, animation and debugging](./mde/3-ModelExecution.pdf)
 - [Lab: Domain-Specific Languages](#)
 
 ##### Further information
@@ -75,7 +74,7 @@ You can retreive the general introduction [here](./2017-18-personalintro-combema
 - [Refcard about EMF](http://refcardz.dzone.com/refcardz/essential-emf)
 - Tutorial [Define a metamodel with ECore Tools](https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial)
 - [OMG Specifications](http://www.omg.org/spec/)
-- Tools: [Eclipse Modeling](http://www.eclipse.org/modeling/), [Xtext](https://www.eclipse.org/Xtext/), [Sirius](https://www.eclipse.org/sirius/), [GEMOC Studio](http://www.eclipse.org/gemoc/), [Spoon](http://spoon.gforge.inria.fr)
+- Tools: [Eclipse Modeling](http://www.eclipse.org/modeling/), [Xtext](https://www.eclipse.org/Xtext/), [Sirius](https://www.eclipse.org/sirius/), [Xtend](https://www.eclipse.org/xtend/), [GEMOC Studio](http://www.eclipse.org/gemoc/), [Spoon](http://spoon.gforge.inria.fr)
 
 ## PDC: Projet de développement collaboratif (P3/P4/P5)
 
