@@ -25,6 +25,8 @@
 
 > [A Large-Scale Study of Programming Languages and Code Quality in GitHub](https://cacm.acm.org/magazines/2017/10/221326-a-large-scale-study-of-programming-languages-and-code-quality-in-github/fulltext), by Baishakhi Ray, Daryl Posnett, Premkumar Devanbu, Vladimir Filkov. In Communications of the ACM, Vol. 60 No. 10, Pages 91-100, Oct. 2017.
 
+> [A programmable programming language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext), by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, Eli Barzilay, Jay McCarthy, and Sam Tobin-Hochstadt. In Communications of the ACM 61, 3, Pages 62-71, Feb. 2018. DOI: https://doi.org/10.1145/3127323
+
 ## Typing
 
 > [Against a Universal Definition of 'Type'](http://tomasp.net/academic/papers/against-types/index.html), by Tomas Petricek. In Proceedings of Onward! Essays 2015.
