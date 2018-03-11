@@ -1,1 +1,1 @@
-> The website is now available on **[combemale.fr](http://combemale.fr)**.
+> The website is now available at **[combemale.fr](http://combemale.fr)**.
